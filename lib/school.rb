@@ -1,5 +1,5 @@
 # code here!
-  school = School.new("Bayside High School")
+
 class School
 
 
@@ -7,3 +7,4 @@ class School
 
 
 end
+  school = School.new("Bayside High School")
