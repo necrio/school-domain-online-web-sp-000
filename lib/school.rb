@@ -2,6 +2,9 @@
 
 class School
 
+  def school
+
+  end
 
 
 
